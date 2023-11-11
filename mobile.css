@@ -1,0 +1,61 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(26, 95, 95);
+}
+h2{
+    color: rgb(26, 95, 95);
+
+}
+.skill{
+    padding: 40px 90px;
+}
+.menu{
+    padding: 100px;
+}
+.a{
+    height: 300px;
+    
+} 
+.photo-1{
+    border-radius: 50%;
+    width: 150px;
+}
+
+table{
+    padding: 0px 250px;
+}
+.photo-2{
+    border-radius: 50%;
+    width: 80px;
+}
+.photo-3{
+    width: 80px;
+    border-radius: 50%;
+}
+.footer{
+    background-color: rgb(40, 163, 163);
+    color: rgb(32, 96, 96);
+    padding: 35px;
+}
+button{
+    background-color: rgb(30, 160, 160);
+    color: white;
+    border: none;
+    margin: 20px;
+    padding: 12px 24px;
+
+}
+.footerr
+{
+
+height: 70%;
+}
+.footer span{
+    padding: 10px;
+    height: 100px;
+    
+}
